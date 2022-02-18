@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a **Data Analyst** for **Data Orchard**.
+*We combine specialist skills in research, statistics and data with a passion for making the world a better place socially, economically and environmentally.*
