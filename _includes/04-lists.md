@@ -1,8 +1,8 @@
-My favourite things:
+Things I like:
 - Nature
-- Animals
+- Reading
+- Walking
+- Pets
   - Cats
   - Dogs
   - Horses
-- Reading
-- Walking
